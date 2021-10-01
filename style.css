@@ -1,0 +1,53 @@
+.something {
+    text-align: center;
+    margin: 50px 0px 0px 0px;
+}
+body {
+    text-align: center;
+    margin: 0px 34% 0px 34%;
+    background-color: aqua
+}
+.text {
+    color: green;
+    margin: 100px 0px 0px 0px;
+    text-align: center;
+}
+.text2 {
+    color: green;
+    margin: 25px;
+    text-align: center;
+}
+.text3 {
+    color: green;
+    margin: 0px;
+    text-align: center;
+}
+.bild1 {
+    margin: 100px 200px 10px 50px;
+    padding: 0px 0px 0px 0px; 
+    width: 500px;
+}
+.bild2 {
+    margin: 0px;
+    padding: 0px;
+    width: 300px;
+}
+.bild3 {
+    width: 400px;
+}
+.border {
+    border-color: green;
+    border-width: 10px;
+    border-style: solid;
+}
+.länkar {
+    padding: 10px;
+    text-align: center;
+}
+.tillbaka-länk{
+    margin: 50px; 
+    text-align: left;
+}
+a {
+    text-align: left;
+}
